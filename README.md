@@ -1,2 +1,2 @@
 # Tit
-Coursach 
+Course project TIT
